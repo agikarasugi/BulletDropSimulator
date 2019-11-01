@@ -13,3 +13,6 @@ Jika github error dalam melakukan preview notebooknya, silahkan dikunjungi di ht
 | Muhammad Teguh Pangestu   	| 2101654945 	|
 | Vincenza Helis Stevin Ber 	| 2101667014 	|
 | Afriezal Lienardi         	| 2101656276 	|
+
+### Knucleball access
+https://nbviewer.jupyter.org/github/agikarasugi/BulletDropSimulator/blob/master/BulletSimulatorKnucleballModified.ipynb
